@@ -1,0 +1,37 @@
+a.nav-link:hover {
+    color: white !important;
+}
+h1,b, #select-drink{
+    cursor: pointer;
+}
+h1,b:hover {
+    color: #FF0000 !important;
+}
+div.title-1 {
+    background-color: lightgoldenrodyellow;
+}
+div.title-2 {
+    background-color: yellow;
+}
+div.title-3 {
+    background-color: lightsalmon;
+}
+div.title-4 {
+    background-color: orange;
+}
+form {
+    background: #ffe5c3f5;
+}
+label.obligatory:after {
+    content: " *";
+    color: red;
+}
+label.error {
+    color: red;
+}
+input.error {
+    border: 1px solid red;
+}
+h2, h4 {
+    font-weight: bold;
+}
